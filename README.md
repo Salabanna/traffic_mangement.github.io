@@ -31,7 +31,7 @@
             <li><a href="https://linkedin.com/in/salabanna khichadi" target="_blank">LinkedIn</a></li>
         </ul>
 
-        <h2>smart Traffic management system</h2>
+        <h2>Smart Traffic management system</h2>
         <dl>
             <dt>Course Name</dt>
             <dd>Algorithmic Problem Solving</dd>
