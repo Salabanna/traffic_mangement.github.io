@@ -1,41 +1,61 @@
-# traffic_mangement.github.io## Portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Hello, I'm [salabanna] 👋</h1>
+        <p>I am passionate about technology and problem-solving. Here's a glimpse of my work:</p>
+    </header>
 
-### Hello, I'm [Your Name] 👋
+    <section>
+        <h2>🛠 Projects</h2>
+        <ul>
+            <li><strong>Project 1</strong>: smart Traffic management system</li>
+        </ul>
 
-I am passionate about technology and problem-solving. Here's a glimpse of my work:
+        <h2>🚀 Skills</h2>
+        <ul>
+            <li>C++, Python, C</li>
+            <li>Data Structures and Algorithms</li>
+        </ul>
 
-## 🛠️ Projects
-- **Project 1**: A short description of your project.
-- **Project 2**: A short description of another project.
+        <h2>🌐 Find Me Online</h2>
+        <ul>
+            <li><a href="https://github.com/your-github-Vi-Ne" target="_blank">GitHub</a></li>
+            <li><a href="https://linkedin.com/in/Vittal Nesaragi" target="_blank">LinkedIn</a></li>
+        </ul>
 
-## 🚀 Skills
-- C++, Python, JavaScript
-- Data Structures and Algorithms
-- Web Development (React.js, Node.js)
+        <h2>smart Traffic management system</h2>
+        <dl>
+            <dt>Course Name</dt>
+            <dd>Algorithmic Problem Solving</dd>
 
-## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+            <dt>Course Code</dt>
+            <dd>24ECSC205</dd>
 
-## Portfolio Topic
+            <dt>Name</dt>
+            <dd>salabanna</dd>
 
-<dl>
-<dt>Course Name</dt>
-<dd>Algorithmic Problem Solving</dd>
-<dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
-<dt>Name</dt>
-<dd>Your Name</dd>
-<dt>SRN</dt>
-<dd>Your SRN</dd>
-<dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
-<dt>University</dt>
-<dd>Your University Name</dd>
-<dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
-</dl>
+            <dt>SRN</dt>
+            <dd>02FE23BCS033</dd>
 
-<br> 
-> “The only way to do great work is to love what you do.” – Steve Jobs
->
+            <dt>Course Instructor</dt>
+            <dd>Prof. Vaishali Parab</dd>
+
+            <dt>University</dt>
+            <dd>KLE Technological University Belgaum Campus</dd>
+
+            <dt>Portfolio Topic/Domain</dt>
+            <dd>Google</dd>
+        </dl>
+
+        <blockquote>“The only way to do great work is to love what you do.” – Steve Jobs</blockquote>
+    </section>
+</body>
+</html>
